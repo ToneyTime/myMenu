@@ -1,2 +1,4 @@
 # myMenu
-ServiceNow Dy manic left side menu [application navigator]
+ServiceNow Dymanic left side menu [application navigator]
+
+Using Tags
